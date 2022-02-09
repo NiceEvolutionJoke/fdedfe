@@ -1,0 +1,1 @@
+$(document).ready((function(){$(".header__burger,.burger__scale").click((function(e){$(".header__title,.header__list,.header__button,.header__content,.block").toggleClass("active"),$("body").toggleClass("lock")}))}));
